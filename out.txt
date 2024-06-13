@@ -1,0 +1,2 @@
+meter2.jpg:70
+execution time£º 0:00:08.322324
